@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dolithachowdary/leetcode-practice/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dolithachowdary/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2023-design-movie-rental-system](https://github.com/dolithachowdary/leetcode-practice/tree/master/2023-design-movie-rental-system) |
 | [3827-implement-router](https://github.com/dolithachowdary/leetcode-practice/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dolithachowdary/leetcode-practice/tree/master/0001-two-sum) |
+| [2023-design-movie-rental-system](https://github.com/dolithachowdary/leetcode-practice/tree/master/2023-design-movie-rental-system) |
 | [3827-implement-router](https://github.com/dolithachowdary/leetcode-practice/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/dolithachowdary/leetcode-practice/tree/master/2023-design-movie-rental-system) |
 | [3827-implement-router](https://github.com/dolithachowdary/leetcode-practice/tree/master/3827-implement-router) |
 ## Queue
 |  |
@@ -33,5 +36,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/dolithachowdary/leetcode-practice/tree/master/2023-design-movie-rental-system) |
 | [3827-implement-router](https://github.com/dolithachowdary/leetcode-practice/tree/master/3827-implement-router) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2023-design-movie-rental-system](https://github.com/dolithachowdary/leetcode-practice/tree/master/2023-design-movie-rental-system) |
 <!---LeetCode Topics End-->
