@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/dolithachowdary/leetcode-practice/tree/master/0278-first-bad-version) |
 | [3827-implement-router](https://github.com/dolithachowdary/leetcode-practice/tree/master/3827-implement-router) |
 ## Design
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/dolithachowdary/leetcode-practice/tree/master/2023-design-movie-rental-system) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/dolithachowdary/leetcode-practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
