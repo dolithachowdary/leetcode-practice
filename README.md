@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dolithachowdary/leetcode-practice/tree/master/3242-count-elements-with-maximum-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/dolithachowdary/leetcode-practice/tree/master/0165-compare-version-numbers) |
+## String
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/dolithachowdary/leetcode-practice/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
