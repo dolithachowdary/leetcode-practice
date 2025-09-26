@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dolithachowdary/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0120-triangle](https://github.com/dolithachowdary/leetcode-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dolithachowdary/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0611-valid-triangle-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [2023-design-movie-rental-system](https://github.com/dolithachowdary/leetcode-practice/tree/master/2023-design-movie-rental-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dolithachowdary/leetcode-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3827-implement-router](https://github.com/dolithachowdary/leetcode-practice/tree/master/3827-implement-router) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/dolithachowdary/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/dolithachowdary/leetcode-practice/tree/master/0278-first-bad-version) |
+| [0611-valid-triangle-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [3827-implement-router](https://github.com/dolithachowdary/leetcode-practice/tree/master/3827-implement-router) |
 ## Design
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/dolithachowdary/leetcode-practice/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0611-valid-triangle-number) |
 ## String
 |  |
 | ------- |
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/dolithachowdary/leetcode-practice/tree/master/0166-fraction-to-recurring-decimal) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0611-valid-triangle-number) |
+## Sorting
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
