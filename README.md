@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dolithachowdary/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0120-triangle](https://github.com/dolithachowdary/leetcode-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dolithachowdary/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0407-trapping-rain-water-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0611-valid-triangle-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/dolithachowdary/leetcode-practice/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/dolithachowdary/leetcode-practice/tree/master/1018-largest-perimeter-triangle) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0407-trapping-rain-water-ii) |
 | [2023-design-movie-rental-system](https://github.com/dolithachowdary/leetcode-practice/tree/master/2023-design-movie-rental-system) |
 ## Interactive
 |  |
@@ -108,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dolithachowdary/leetcode-practice/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
