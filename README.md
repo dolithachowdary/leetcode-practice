@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dolithachowdary/leetcode-practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/dolithachowdary/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0120-triangle](https://github.com/dolithachowdary/leetcode-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dolithachowdary/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/dolithachowdary/leetcode-practice/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0611-valid-triangle-number) |
 ## String
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/dolithachowdary/leetcode-practice/tree/master/1018-largest-perimeter-triangle) |
 ## Sorting
