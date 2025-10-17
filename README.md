@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dolithachowdary/leetcode-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dolithachowdary/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dolithachowdary/leetcode-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dolithachowdary/leetcode-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/dolithachowdary/leetcode-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/dolithachowdary/leetcode-practice/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dolithachowdary/leetcode-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dolithachowdary/leetcode-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -180,9 +182,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/dolithachowdary/leetcode-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/dolithachowdary/leetcode-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
