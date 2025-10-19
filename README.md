@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/dolithachowdary/leetcode-practice/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dolithachowdary/leetcode-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dolithachowdary/leetcode-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dolithachowdary/leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/dolithachowdary/leetcode-practice/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dolithachowdary/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/dolithachowdary/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Union Find
 |  |
 | ------- |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/dolithachowdary/leetcode-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
