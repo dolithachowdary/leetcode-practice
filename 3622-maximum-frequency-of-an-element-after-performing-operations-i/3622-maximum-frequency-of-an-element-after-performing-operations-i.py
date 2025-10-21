@@ -1,28 +1,19 @@
 class Solution:
-    def maxFrequency(self, nums: list[int], k: int, numOperations: int) -> int:
-        from collections import Counter
-        cnt = Counter(nums)
-        line = {}
-        candidates = set()
-        
-        for x in nums:
-            # mark range [x-k, x+k]
-            start = x - k
-            endp1 = x + k + 1
-            line[start] = line.get(start, 0) + 1
-            line[endp1] = line.get(endp1, 0) - 1
-            # add candidate values
-            candidates.add(x)
-            candidates.add(start)
-            candidates.add(endp1)
-        
-        ans = 1
-        adjustable = 0
-        for v in sorted(candidates):
-            adjustable += line.get(v, 0)
-            already = cnt.get(v, 0)
-            non_equal = adjustable - already
-            # we can convert at most numOperations of the non_equal ones
-            ans = max(ans, already + min(numOperations, non_equal))
-        
+    def maxFrequency(self, nums: List[int], k: int, numOperations: int) -> int:
+        maxi=max(nums)
+        pre=[0]*(maxi+1)
+        prev=ans=0
+        for i in nums:
+            pre[i]+=1
+        cur=sum(pre[:k])
+        for num in range(maxi+1):
+            cur-=pre[num]
+            if num+k<=maxi:
+                cur+=pre[num+k]
+            if num>0:
+                prev+=pre[num-1]
+            if num>k+1:
+                prev-=pre[num-k-1]
+            ans=max(ans,pre[num]+min(numOperations,prev+cur))
         return ans
+
