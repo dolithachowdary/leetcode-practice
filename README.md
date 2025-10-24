@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dolithachowdary/leetcode-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/dolithachowdary/leetcode-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/dolithachowdary/leetcode-practice/tree/master/2023-design-movie-rental-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dolithachowdary/leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dolithachowdary/leetcode-practice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dolithachowdary/leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dolithachowdary/leetcode-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dolithachowdary/leetcode-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/dolithachowdary/leetcode-practice/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/dolithachowdary/leetcode-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1642-water-bottles](https://github.com/dolithachowdary/leetcode-practice/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/dolithachowdary/leetcode-practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dolithachowdary/leetcode-practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -233,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Backtracking
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
