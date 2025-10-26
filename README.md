@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dolithachowdary/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Union Find
 |  |
 | ------- |
@@ -246,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
+## Graph
+|  |
+| ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/2438-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
