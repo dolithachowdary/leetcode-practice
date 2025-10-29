@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dolithachowdary/leetcode-practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3336-water-bottles-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/dolithachowdary/leetcode-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/dolithachowdary/leetcode-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/dolithachowdary/leetcode-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/dolithachowdary/leetcode-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
