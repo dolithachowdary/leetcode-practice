@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/dolithachowdary/leetcode-practice/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Union Find
 |  |
 | ------- |
@@ -299,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dolithachowdary/leetcode-practice/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/dolithachowdary/leetcode-practice/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
