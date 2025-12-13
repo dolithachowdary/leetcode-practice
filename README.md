@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dolithachowdary/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dolithachowdary/leetcode-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/dolithachowdary/leetcode-practice/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/dolithachowdary/leetcode-practice/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dolithachowdary/leetcode-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/dolithachowdary/leetcode-practice/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dolithachowdary/leetcode-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/dolithachowdary/leetcode-practice/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3827-implement-router](https://github.com/dolithachowdary/leetcode-practice/tree/master/3827-implement-router) |
 ## Binary Search
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dolithachowdary/leetcode-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3194-find-words-containing-character](https://github.com/dolithachowdary/leetcode-practice/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3606-coupon-code-validator](https://github.com/dolithachowdary/leetcode-practice/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/dolithachowdary/leetcode-practice/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dolithachowdary/leetcode-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/dolithachowdary/leetcode-practice/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/dolithachowdary/leetcode-practice/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
