@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/dolithachowdary/leetcode-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dolithachowdary/leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dolithachowdary/leetcode-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2092-find-all-people-with-secret](https://github.com/dolithachowdary/leetcode-practice/tree/master/2092-find-all-people-with-secret) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dolithachowdary/leetcode-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3433-count-mentions-per-user](https://github.com/dolithachowdary/leetcode-practice/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dolithachowdary/leetcode-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dolithachowdary/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/dolithachowdary/leetcode-practice/tree/master/2092-find-all-people-with-secret) |
 ## Matrix
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dolithachowdary/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/dolithachowdary/leetcode-practice/tree/master/2092-find-all-people-with-secret) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/dolithachowdary/leetcode-practice/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/dolithachowdary/leetcode-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/dolithachowdary/leetcode-practice/tree/master/2092-find-all-people-with-secret) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/dolithachowdary/leetcode-practice/tree/master/2092-find-all-people-with-secret) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Stack
 |  |
