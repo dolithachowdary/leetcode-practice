@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/dolithachowdary/leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dolithachowdary/leetcode-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dolithachowdary/leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dolithachowdary/leetcode-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/dolithachowdary/leetcode-practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/dolithachowdary/leetcode-practice/tree/master/1612-avoid-flood-in-the-city) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/dolithachowdary/leetcode-practice/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/dolithachowdary/leetcode-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [2054-two-best-non-overlapping-events](https://github.com/dolithachowdary/leetcode-practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dolithachowdary/leetcode-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dolithachowdary/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dolithachowdary/leetcode-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dolithachowdary/leetcode-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dolithachowdary/leetcode-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
