@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/dolithachowdary/leetcode-practice/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/dolithachowdary/leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/dolithachowdary/leetcode-practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/dolithachowdary/leetcode-practice/tree/master/1018-largest-perimeter-triangle) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dolithachowdary/leetcode-practice/tree/master/0001-two-sum) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dolithachowdary/leetcode-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0756-pyramid-transition-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/dolithachowdary/leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dolithachowdary/leetcode-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dolithachowdary/leetcode-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/dolithachowdary/leetcode-practice/tree/master/1590-make-sum-divisible-by-p) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/dolithachowdary/leetcode-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/dolithachowdary/leetcode-practice/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/dolithachowdary/leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dolithachowdary/leetcode-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/dolithachowdary/leetcode-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1642-water-bottles](https://github.com/dolithachowdary/leetcode-practice/tree/master/1642-water-bottles) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dolithachowdary/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/dolithachowdary/leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dolithachowdary/leetcode-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dolithachowdary/leetcode-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
