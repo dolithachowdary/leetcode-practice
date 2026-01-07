@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/dolithachowdary/leetcode-practice/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dolithachowdary/leetcode-practice/tree/master/0166-fraction-to-recurring-decimal) |
+| [0326-power-of-three](https://github.com/dolithachowdary/leetcode-practice/tree/master/0326-power-of-three) |
 | [0830-largest-triangle-area](https://github.com/dolithachowdary/leetcode-practice/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/dolithachowdary/leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dolithachowdary/leetcode-practice/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -407,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/dolithachowdary/leetcode-practice/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
