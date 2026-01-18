@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0100-same-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dolithachowdary/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0100-same-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dolithachowdary/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0100-same-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0100-same-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
