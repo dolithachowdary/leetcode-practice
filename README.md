@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dolithachowdary/leetcode-practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dolithachowdary/leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dolithachowdary/leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dolithachowdary/leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dolithachowdary/leetcode-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dolithachowdary/leetcode-practice/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/dolithachowdary/leetcode-practice/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dolithachowdary/leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/dolithachowdary/leetcode-practice/tree/master/1612-avoid-flood-in-the-city) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dolithachowdary/leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/dolithachowdary/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/dolithachowdary/leetcode-practice/tree/master/0840-magic-squares-in-grid) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dolithachowdary/leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-largest-magic-square](https://github.com/dolithachowdary/leetcode-practice/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dolithachowdary/leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dolithachowdary/leetcode-practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/dolithachowdary/leetcode-practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/dolithachowdary/leetcode-practice/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/dolithachowdary/leetcode-practice/tree/master/2483-minimum-penalty-for-a-shop) |
