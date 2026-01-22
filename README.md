@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0011-container-with-most-water) |
+| [0148-sort-list](https://github.com/dolithachowdary/leetcode-practice/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/dolithachowdary/leetcode-practice/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dolithachowdary/leetcode-practice/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/dolithachowdary/leetcode-practice/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/dolithachowdary/leetcode-practice/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/dolithachowdary/leetcode-practice/tree/master/1018-largest-perimeter-triangle) |
@@ -457,9 +459,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/dolithachowdary/leetcode-practice/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/dolithachowdary/leetcode-practice/tree/master/0148-sort-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/dolithachowdary/leetcode-practice/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/dolithachowdary/leetcode-practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
