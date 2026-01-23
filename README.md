@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/dolithachowdary/leetcode-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dolithachowdary/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0474-ones-and-zeroes](https://github.com/dolithachowdary/leetcode-practice/tree/master/0474-ones-and-zeroes) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Graph
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0100-same-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0100-same-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -490,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/dolithachowdary/leetcode-practice/tree/master/0164-maximum-gap) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
