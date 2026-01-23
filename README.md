@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/dolithachowdary/leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/dolithachowdary/leetcode-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dolithachowdary/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0474-ones-and-zeroes](https://github.com/dolithachowdary/leetcode-practice/tree/master/0474-ones-and-zeroes) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/dolithachowdary/leetcode-practice/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/dolithachowdary/leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dolithachowdary/leetcode-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/dolithachowdary/leetcode-practice/tree/master/0326-power-of-three) |
 | [0830-largest-triangle-area](https://github.com/dolithachowdary/leetcode-practice/tree/master/0830-largest-triangle-area) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/dolithachowdary/leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0100-same-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/dolithachowdary/leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0100-same-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -498,4 +502,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/dolithachowdary/leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
