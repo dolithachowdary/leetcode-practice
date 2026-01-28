@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/dolithachowdary/leetcode-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/dolithachowdary/leetcode-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/dolithachowdary/leetcode-practice/tree/master/3827-implement-router) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dolithachowdary/leetcode-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/dolithachowdary/leetcode-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/dolithachowdary/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/dolithachowdary/leetcode-practice/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dolithachowdary/leetcode-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dolithachowdary/leetcode-practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/dolithachowdary/leetcode-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Depth-First Search
 |  |
 | ------- |
