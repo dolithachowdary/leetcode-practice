@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/dolithachowdary/leetcode-practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dolithachowdary/leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dolithachowdary/leetcode-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/dolithachowdary/leetcode-practice/tree/master/3074-apple-redistribution-into-boxes) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dolithachowdary/leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dolithachowdary/leetcode-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/dolithachowdary/leetcode-practice/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3194-find-words-containing-character](https://github.com/dolithachowdary/leetcode-practice/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -526,11 +528,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/dolithachowdary/leetcode-practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/dolithachowdary/leetcode-practice/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Trie
