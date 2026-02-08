@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dolithachowdary/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/dolithachowdary/leetcode-practice/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/dolithachowdary/leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/dolithachowdary/leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dolithachowdary/leetcode-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
