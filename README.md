@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3194-find-words-containing-character](https://github.com/dolithachowdary/leetcode-practice/tree/master/3194-find-words-containing-character) |
+| [3227-vowels-game-in-a-string](https://github.com/dolithachowdary/leetcode-practice/tree/master/3227-vowels-game-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3606-coupon-code-validator](https://github.com/dolithachowdary/leetcode-practice/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dolithachowdary/leetcode-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dolithachowdary/leetcode-practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-vowels-game-in-a-string](https://github.com/dolithachowdary/leetcode-practice/tree/master/3227-vowels-game-in-a-string) |
 | [3336-water-bottles-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dolithachowdary/leetcode-practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/dolithachowdary/leetcode-practice/tree/master/3433-count-mentions-per-user) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [3227-vowels-game-in-a-string](https://github.com/dolithachowdary/leetcode-practice/tree/master/3227-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Binary Tree
 |  |
@@ -564,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/dolithachowdary/leetcode-practice/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
