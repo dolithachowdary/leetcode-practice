@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dolithachowdary/leetcode-practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/dolithachowdary/leetcode-practice/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3713-longest-balanced-substring-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3827-implement-router](https://github.com/dolithachowdary/leetcode-practice/tree/master/3827-implement-router) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dolithachowdary/leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dolithachowdary/leetcode-practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/dolithachowdary/leetcode-practice/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3713-longest-balanced-substring-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/dolithachowdary/leetcode-practice/tree/master/3227-vowels-game-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3606-coupon-code-validator](https://github.com/dolithachowdary/leetcode-practice/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
 |  |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dolithachowdary/leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
