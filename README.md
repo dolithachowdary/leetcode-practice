@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dolithachowdary/leetcode-practice/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/dolithachowdary/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dolithachowdary/leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dolithachowdary/leetcode-practice/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/dolithachowdary/leetcode-practice/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/3721-longest-balanced-subarray-ii) |
