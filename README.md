@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/dolithachowdary/leetcode-practice/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/dolithachowdary/leetcode-practice/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/dolithachowdary/leetcode-practice/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dolithachowdary/leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0401-binary-watch](https://github.com/dolithachowdary/leetcode-practice/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Graph
