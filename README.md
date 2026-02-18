@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dolithachowdary/leetcode-practice/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/dolithachowdary/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/dolithachowdary/leetcode-practice/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/dolithachowdary/leetcode-practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dolithachowdary/leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
