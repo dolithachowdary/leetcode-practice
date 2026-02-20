@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/dolithachowdary/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/dolithachowdary/leetcode-practice/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/dolithachowdary/leetcode-practice/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/dolithachowdary/leetcode-practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dolithachowdary/leetcode-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/dolithachowdary/leetcode-practice/tree/master/0164-maximum-gap) |
 | [0414-third-maximum-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/0611-valid-triangle-number) |
+| [0761-special-binary-string](https://github.com/dolithachowdary/leetcode-practice/tree/master/0761-special-binary-string) |
 | [1018-largest-perimeter-triangle](https://github.com/dolithachowdary/leetcode-practice/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/dolithachowdary/leetcode-practice/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/dolithachowdary/leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/dolithachowdary/leetcode-practice/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/dolithachowdary/leetcode-practice/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/dolithachowdary/leetcode-practice/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/dolithachowdary/leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/dolithachowdary/leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/3721-longest-balanced-subarray-ii) |
