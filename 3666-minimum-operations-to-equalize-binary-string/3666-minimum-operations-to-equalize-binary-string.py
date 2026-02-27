@@ -1,24 +1,34 @@
 class Solution:
     def minOperations(self, s: str, k: int) -> int:
+        # O(n) time complexity
+        # O(1) space complexity
+
         n = len(s)
-        ts = [SortedSet() for _ in range(2)]
-        for i in range(n + 1):
-            ts[i % 2].add(i)
-        cnt0 = s.count('0')
-        ts[cnt0 % 2].remove(cnt0)
-        q = deque([cnt0])
-        ans = 0
-        while q:
-            for _ in range(len(q)):
-                cur = q.popleft()
-                if cur == 0:
-                    return ans
-                l = cur + k - 2 * min(cur, k)
-                r = cur + k - 2 * max(k - n + cur, 0)
-                t = ts[l % 2]
-                j = t.bisect_left(l)
-                while j < len(t) and t[j] <= r:
-                    q.append(t[j])
-                    t.remove(t[j])
-            ans += 1
-        return -1
+        z = s.count('0')
+        
+        if n == k:
+            if z == 0:
+                return 0
+            elif z == n:
+                return 1
+            else:
+                return -1
+        
+        def ceil(x, y):
+            return (x + y - 1) // y
+        
+        ans = inf
+        
+        if z % 2 == 0:
+            m = max(ceil(z, k), ceil(z, n - k))
+            if m % 2 == 1:
+                m += 1
+            ans = min(ans, m)
+        
+        if z % 2 == k % 2:
+            m = max(ceil(z, k), ceil(n - z, n - k))
+            if m % 2 == 0:
+                m += 1
+            ans = min(ans, m)
+        
+        return ans if ans < inf else -1
