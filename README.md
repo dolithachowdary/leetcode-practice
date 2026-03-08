@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/dolithachowdary/leetcode-practice/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dolithachowdary/leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/dolithachowdary/leetcode-practice/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/dolithachowdary/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dolithachowdary/leetcode-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/dolithachowdary/leetcode-practice/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/dolithachowdary/leetcode-practice/tree/master/2054-two-best-non-overlapping-events) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dolithachowdary/leetcode-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/dolithachowdary/leetcode-practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/dolithachowdary/leetcode-practice/tree/master/1612-avoid-flood-in-the-city) |
+| [1980-find-unique-binary-string](https://github.com/dolithachowdary/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2023-design-movie-rental-system](https://github.com/dolithachowdary/leetcode-practice/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/dolithachowdary/leetcode-practice/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/dolithachowdary/leetcode-practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dolithachowdary/leetcode-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dolithachowdary/leetcode-practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/dolithachowdary/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dolithachowdary/leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dolithachowdary/leetcode-practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dolithachowdary/leetcode-practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/dolithachowdary/leetcode-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/dolithachowdary/leetcode-practice/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/dolithachowdary/leetcode-practice/tree/master/0756-pyramid-transition-matrix) |
+| [1980-find-unique-binary-string](https://github.com/dolithachowdary/leetcode-practice/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dolithachowdary/leetcode-practice/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Graph
 |  |
